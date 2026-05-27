@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailverify",
+        "uuid": 17935632,
+        "checksum": "hb93df"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
